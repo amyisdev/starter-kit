@@ -1,6 +1,6 @@
 {
-  "name": "llm-wrapper",
-  "version": "1.0.50",
+  "name": "elysia",
+  "version": "1.0.0",
   "scripts": {
     "dev": "bun run --watch src/index.ts",
     "build": "bun build --compile --minify-whitespace --minify-syntax --target bun --outfile ./build/server ./src/index.ts",
