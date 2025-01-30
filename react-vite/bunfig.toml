@@ -1,0 +1,3 @@
+[test]
+preload = ["./src/tests/happydom.ts", "./src/tests/testing-library.ts"]
+coverageReporter  = ["text", "lcov"]

@@ -1,0 +1,26 @@
+# Files and folders to be ignored by Docker during build
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Development and build files
+node_modules
+dist
+
+# IDE and editor files
+.vscode
+.idea
+*.iml
+.DS_Store
+
+# Log files
+logs
+npm-debug.log
+
+# Testing and coverage reports
+coverage
+
+# Git
+.git
+.gitignore
